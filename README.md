@@ -1,16 +1,18 @@
-### Hi there 👋
+<div>
+  
+  <h1 align="center">
+    111</a>
+  </h1>
+  
+  <p align="center">
+    Minhas Estatisticas:
+  </p>
+  
+</div>
 
-<!--
-**BoneShai/BoneShai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/BoneShai">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BoneShai&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoneShai&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
